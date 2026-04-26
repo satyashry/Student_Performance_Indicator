@@ -165,7 +165,7 @@ Steps followed:
 **  Satyashry **
 
 * GitHub: https://github.com/satyashry
-* LinkedIn: in/psatyashry24
+* LinkedIn: https://www.linkedin.com/in/psatyashry24/
 
 ---
 
