@@ -164,7 +164,7 @@ Steps followed:
 
 **Satya (Satyashry P)**
 
-* GitHub: https://github.com/nvm-kai
+* GitHub: https://github.com/satyashry
 * LinkedIn: https://www.linkedin.com/in/satyashry
 
 ---
